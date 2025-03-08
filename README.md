@@ -27,12 +27,12 @@ To run this bot, you will need to have the following:
 4. configure the Token, Client ID, GuildID and Api Key on the config.yml (/settings/config.yml):
     ```yml
     BOT_CONFIG:
-        NAME: "IpInfo Bot"
-        EMBED_COLOR: "#ff0000"
-        TOKEN: "BOT_TOKEN_HERE"
-        GUILD_ID: "YOUR_GUILD_ID"
-        BOT_ID: "CLIENT_ID_HERE"
-        IPINFO_API_KEY: "IPINFO_API_KEY"
+      NAME: "IpInfo Bot"
+      EMBED_COLOR: "#ff0000"
+      TOKEN: "BOT_TOKEN_HERE"
+      GUILD_ID: "YOUR_GUILD_ID"
+      BOT_ID: "CLIENT_ID_HERE"
+      IPINFO_API_KEY: "IPINFO_API_KEY"
   ```
 5. Start the bot using
     ```bash
