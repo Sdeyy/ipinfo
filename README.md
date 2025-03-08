@@ -32,7 +32,6 @@ To run this bot, you will need to have the following:
       GUILD_ID: "YOUR_GUILD_ID"
       BOT_ID: "CLIENT_ID_HERE"
       IPINFO_API_KEY: "IPINFO_API_KEY"
-  ```
 
 5. Start the bot using
     ```bash
