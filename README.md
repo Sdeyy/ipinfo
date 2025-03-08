@@ -14,16 +14,15 @@ To run this bot, you will need to have the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sdeyy/IpInfo-Bot.git
-   ```
+
 2. Entra a la carpeta del proyecto:
     ```bash
     cd IpInfo-Bot
-    ```
 
 3. Instala las dependencias:
     ```bash
     npm i
-    ```
+
 4. configure the Token, Client ID, GuildID and Api Key on the config.yml (/settings/config.yml):
     ```yml
     BOT_CONFIG:
@@ -34,10 +33,10 @@ To run this bot, you will need to have the following:
       BOT_ID: "CLIENT_ID_HERE"
       IPINFO_API_KEY: "IPINFO_API_KEY"
   ```
+
 5. Start the bot using
     ```bash
     npm run start
-    ```
 
 ## How do I create a bot?
 
