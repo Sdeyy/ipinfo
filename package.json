@@ -1,0 +1,22 @@
+{
+  "name": "ipinfo-bot",
+  "version": "1.0.1",
+  "description": "IpInfo Bot | Get IP information using the ipinfo.io api",
+  "main": "./index.js",
+  "author": "sdeyy.lsd",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "@types/node": "^22.10.2",
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^14.14.1",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
