@@ -1,0 +1,11 @@
+##########################################
+#               Bot Settings             #
+##########################################
+
+BOT_CONFIG:
+  NAME: "IpInfo Bot"
+  EMBED_COLOR: "#ff0000"
+  TOKEN: "BOT_TOKEN_HERE"
+  GUILD_ID: "YOUR_GUILD_ID"
+  BOT_ID: "CLIENT_ID_HERE"
+  IPINFO_API_KEY: "IPINFO_API_KEY"
