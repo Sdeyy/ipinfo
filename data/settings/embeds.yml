@@ -1,0 +1,9 @@
+IpInfo:
+  Title: "Información de la IP: <ip>"
+  Description:
+    - "**Ubicación**: <data.city>, <data.region>, <data.country>."
+    - "**Organización**: <data.org>."
+    - "**Latitud y Longitud**: <data.loc>."
+    - "**Código Postal**: <data.postal>."
+    - "**Zona Horaria**: <data.timezone>"
+  Footer: "Datos obtenidos de ipinfo.io"
